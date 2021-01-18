@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gladya-online-shop/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/gladya-online-shop/static/js/main.2811039f.chunk.js",
+    "main.js.map": "/gladya-online-shop/static/js/main.2811039f.chunk.js.map",
+    "runtime-main.js": "/gladya-online-shop/static/js/runtime-main.5cff6ea2.js",
+    "runtime-main.js.map": "/gladya-online-shop/static/js/runtime-main.5cff6ea2.js.map",
+    "static/js/2.dff9fe2c.chunk.js": "/gladya-online-shop/static/js/2.dff9fe2c.chunk.js",
+    "static/js/2.dff9fe2c.chunk.js.map": "/gladya-online-shop/static/js/2.dff9fe2c.chunk.js.map",
+    "static/js/3.90d1975f.chunk.js": "/gladya-online-shop/static/js/3.90d1975f.chunk.js",
+    "static/js/3.90d1975f.chunk.js.map": "/gladya-online-shop/static/js/3.90d1975f.chunk.js.map",
+    "index.html": "/gladya-online-shop/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/gladya-online-shop/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.dff9fe2c.chunk.js.LICENSE.txt": "/gladya-online-shop/static/js/2.dff9fe2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cff6ea2.js",
+    "static/js/2.dff9fe2c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2811039f.chunk.js"
+  ]
+}
